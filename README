@@ -40,4 +40,8 @@ when run on Linux:
     $ python wavtospice.py file.wav inputvalues
     $ ngspice -b examples/lowpass.cir > spice_output
     $ python spicetowav.py spice_output output.wav
+    
+# Note
+
+I'll begin now to make some changes
 
